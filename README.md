@@ -9,7 +9,8 @@ et sécuriser une infrastructure informatique complète pour l’entreprise Gree
 - Installer un serveur Windows Server 2022
 - Mettre en place un Active Directory
 - Créer des utilisateurs, des postes et des GPO
-- Réalisation de divers test d'intrusion
+- Création de script Powershell pour automatiser les taches
+- Réalisation de divers test d'intrusion pour renforcer la sécurité
 
 ## Environnement
 - Windows Server 2022 (machine virtuelle)
@@ -18,7 +19,9 @@ et sécuriser une infrastructure informatique complète pour l’entreprise Gree
 - Postes clients Windows
 
 ## Travail réalisé
-- Segmentation réseau avec VLAN
+- Segmentation réseau avec VLAN :
+   Le réseau de GreenReso à tout d'abord été segmenter en fonctions de ces different services pour des questions de claireter et de sécurité :
+  ![Schéma réseau](images/Schéma-Réseau.png)
 - Installation de Windows Server 2022
 - Création du domaine Active Directory
 - Mise en place des services DNS et DHCP
