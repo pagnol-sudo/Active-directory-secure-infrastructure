@@ -27,7 +27,7 @@ et sécuriser une infrastructure informatique complète pour l’entreprise Gree
 - **Installation de Windows Server 2022 de l'AD, et des service DNS, DHCP**
   L'AD est en suite mise sur le Windows Serveur 2022 suivie des services DNS pour le bon fonctionnement de l'AD et pour finir le DHCP pour
   la configuration automatique des nouvelles machines sur le réseau
-  ![Schéma réseau](images/SchemaAD.png)
+  ![Schéma réseau](images/SchémaAD.png)
 - Création des utilisateurs et des groupes
 - Application de stratégies de groupe (GPO)
 - Automatisation des taches via des scripts PowerShell
