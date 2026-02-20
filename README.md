@@ -24,8 +24,8 @@ et sécuriser une infrastructure informatique complète pour l’entreprise Gree
   derniere sous-réseau pour les serveurs.
   ![Schéma IP](images/SchémaIP.png)
   ![Schéma réseau](images/SchemaReseau.png)
-- **Installation de Windows Server 2022 de l'AD, et des service DNS, DHCP**
-  L'AD est en suite mise sur le Windows Serveur 2022 suivie des services DNS pour le bon fonctionnement de l'AD et pour finir le DHCP pour
+- **Installation de Windows Server 2022 de l'AD, et des service DNS, DHCP :**
+     L'AD est en suite mise sur le Windows Serveur 2022 suivie des services DNS pour le bon fonctionnement de l'AD et pour finir le DHCP pour
   la configuration automatique des nouvelles machines sur le réseau
   ![Schéma réseau](images/SchémaAD.png)
 - Création des utilisateurs et des groupes
