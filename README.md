@@ -22,7 +22,7 @@ et sécuriser une infrastructure informatique complète pour l’entreprise Gree
 - **Segmentation réseau avec VLAN :**<br>
 <br>
    Le réseau de GreenReso à été segmenter en fonctions de ces 6 different services pour des questions de claireter et de sécurité et un
-  derniere sous-réseau pour les serveurs.
+  derniere sous-réseau pour les serveurs. </br>
   ![Schéma IP](images/SchémaIP.png)
   ![Schéma réseau](images/SchemaReseau.png)
   <br>
