@@ -19,7 +19,7 @@ et sécuriser une infrastructure informatique complète pour l’entreprise Gree
 - Postes clients Windows
 
 ## Travail réalisé
-- Segmentation réseau avec VLAN :
+- **Segmentation réseau avec VLAN :**
    Le réseau de GreenReso à été segmenter en fonctions de ces 5 different services pour des questions de claireter et de sécurité :
   ![Schéma IP](images/SchémaIP.png)
   ![Schéma réseau](images/SchemaReseau.png)
