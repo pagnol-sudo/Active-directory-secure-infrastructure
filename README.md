@@ -21,7 +21,7 @@ et sécuriser une infrastructure informatique complète pour l’entreprise Gree
 ## Travail réalisé
 - Segmentation réseau avec VLAN :
    Le réseau de GreenReso à été segmenter en fonctions de ces 5 different services pour des questions de claireter et de sécurité :
-  ![Schéma IP](images/SchemaIP.png)
+  ![Schéma IP](images/SchémaIP.png)
   ![Schéma réseau](images/SchemaReseau.png)
 - Installation de Windows Server 2022
 - Création du domaine Active Directory
