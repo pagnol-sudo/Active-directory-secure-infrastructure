@@ -22,9 +22,9 @@ et sécuriser une infrastructure informatique complète pour l’entreprise Gree
 - Mise en place des services DNS et DHCP
 - Création des utilisateurs et des groupes
 - Application de stratégies de groupe (GPO)
+- Automatisation des taches via des scripts PowerShell
 - Segmentation réseau avec VLAN
 
 ## En cours
 - Amélioration de la sécurité Active Directory
-- Découverte de PowerShell
 - Tests de sécurité en laboratoire
